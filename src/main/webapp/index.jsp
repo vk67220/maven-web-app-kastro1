@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1><font color='red'> Congratualtions! Successfully JAVA Deployed Project  <font></h1>
-<h1><font color='blue'> REDBOOK </font></h1>
+<h1><font color='green'> REDBOOK </font></h1>
 
 <a href="http://www.youtube.com/@LearnWithKASTRO">Click Here To See My YouTube Channel</a>
   
